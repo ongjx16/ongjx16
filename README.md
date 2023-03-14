@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jing Xuan.</h1>
+<h1 align="center">Hi, I'm Jing Xuan!</h1>
 <h3 align="center">Currently pursuing a bachelors in computer sceince and a masters in technology management in Nanyang Technological University as a Renaissance Engineering Programme Scholar</h3>
 <div align="center">
 
