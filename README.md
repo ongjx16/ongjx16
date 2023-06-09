@@ -22,6 +22,7 @@
 <hr>
 <h2 align="center">Tech Stack</h2>
 <!--tech stack icons-->
+<div align = "center">
 <kbd>
     <kbd align = "center" >Front End</kbd>
     <br>
@@ -62,3 +63,4 @@
   </a>
 </p>
 </kbd>
+</div>
