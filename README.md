@@ -7,25 +7,34 @@
 [![image](https://img.shields.io/badge/Telegram-188AD5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ongjx16)
 
   
+
+
+  
+</div>
+<div>
 - A computer science student in Nanyang Technological University's Renaissance Engineering Programme 📖
 - Currently learning 3d modelling and 3d web development 
 - Enjoys both the design and development process 🎨 💻
 - Enjoys working on projects with real impact!
-  
-
-  
 </div>
 
 <hr>
 <Br>
 <h1 align="center">Tech Stack</h1>
 <!--tech stack icons-->
-<h2 align="center">Front End</h2>
-<p align="center">
+  
+<kbd>
+    <kbd>FrontEnd</kbd>
+    <br>
+    <br>
+    <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,react,tailwind,html,css,nextjs&perline=14" />
   </a>
 </p>
+</kbd>
+
+
 <h2 align="center">Design Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
