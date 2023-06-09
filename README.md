@@ -11,16 +11,10 @@
 
 <hr>
 <Br>
-<h1>Some of my Projects! 🎨</h1>
-<Br>
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ongjx16&repo=HeadHome)](https://github.com/ongjx16/HeadHome)
-
-<Br>
-  
-<Br>
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ongjx16&repo=BenchSafe)](https://github.com/ongjx16/BenchSafe)
-
-<Br>
-<hr>
+<h1>Tech Stack</h1>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css,nodejs,nextjsvscode&perline=14" />
+  </a>
+</p>
