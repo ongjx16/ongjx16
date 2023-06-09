@@ -15,7 +15,7 @@
   
   - A computer science student in Nanyang Technological University's Renaissance Engineering Programme 📖
   - Currently learning 3d modelling and 3d web development!
-  - Enjoys both the design and development process 🎨 💻
+  - Enjoys designing and developing new projects 🎨 💻
   
 </div>
 
