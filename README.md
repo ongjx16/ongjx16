@@ -9,38 +9,18 @@
   
 </div>
 
-<!-- - 🔭 I’m currently exploring **Various Algorithms and Web3**
+<hr>
+<Br>
+<h1>Some of my Projects! 🎨</h1>
+<Br>
+  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ongjx16&repo=HeadHome)](https://github.com/ongjx16/HeadHome)
 
-- 🌱 I’m currently involved in **Web Development**
+<Br>
+  
+<Br>
+  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ongjx16&repo=BenchSafe)](https://github.com/ongjx16/BenchSafe)
 
-- 👯 I’m looking to join some **Hackathons**
-
-- 📫 My Website: **www.ayushmandixit.com**
-
-<br />
-
-<h2 align="center"> 🛠 Tech Stack:</h2>
-
-<div align="center">
-  <h3>Frontend</h3>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,redux,figma" />
-    </a>
-  </p>
-  <h3>Backend</h3>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,mongodb,firebase,mysql" />
-    </a>
-  </p>
-  <h3>Software (Misc.)</h3>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,solidity,git,selenium" />
-    </a>
-  </p>
-  <br />
-</div>
-
-<br /> -->
+<Br>
+<hr>
