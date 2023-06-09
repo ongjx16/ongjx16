@@ -14,17 +14,14 @@
 <div>
   
   - A computer science student in Nanyang Technological University's Renaissance Engineering Programme 📖
-  - Currently learning 3d modelling and 3d web development 
+  - Currently learning 3d modelling and 3d web development!
   - Enjoys both the design and development process 🎨 💻
-  - Enjoys working on projects with real impact!
   
 </div>
 
 <hr>
-<Br>
-<h3 align="center">Tech Stack</h3>
+<h2 align="center">Tech Stack</h2>
 <!--tech stack icons-->
-  
 <kbd>
     <kbd align = "center" >Front End</kbd>
     <br>
@@ -41,7 +38,7 @@
     <br>
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma, blender&perline=14" />
+    <img src="https://skillicons.dev/icons?i=figma,blender&perline=14" />
   </a>
 </p>
 </kbd>
