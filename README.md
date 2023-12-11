@@ -14,7 +14,7 @@
 <div>
   
   - A computer science student in Nanyang Technological University's Renaissance Engineering Programme 📖
-  - Currently learning 3d modelling and 3d web development!
+  - Currently learning 3d modelling and VR Game Development!
   - Enjoys designing and developing new projects 🎨 💻
   
 </div>
@@ -39,7 +39,7 @@
     <br>
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,blender&perline=14" />
+    <img src="https://skillicons.dev/icons?i=unity,figma,blender&perline=14" />
   </a>
 </p>
 </kbd>
