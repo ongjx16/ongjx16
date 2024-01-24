@@ -14,7 +14,7 @@
 <div>
   
   - A computer science student in Nanyang Technological University's Renaissance Engineering Programme 📖
-  - Currently learning 3d modelling and VR Game Development!
+  - Currently learning Computer Graphics and VR Game Development!
   - Enjoys designing and developing new projects 🎨 💻
   
 </div>
