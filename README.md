@@ -14,6 +14,7 @@
 <div>
   
   - Penultimate Year Computer Science student in Nanyang Technological University's Renaissance Engineering Programme 📖
+  - GLOBE Student (Computer Science) in University of California, Berkeley (2023-2024)
   - Currently learning Computer Graphics and VR Game Development!
   - Enjoys designing and developing new projects 🎨 💻
   
