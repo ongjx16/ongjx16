@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jing Xuan!</h1>
-<h4 align="center">I'm an aspiring software developer with a keen interest in design-centric projects and front-end development!</h4>
+<h4 align="center">I'm an aspiring software developer with a keen interest in building meaningful software products and design-centric projects!</h4>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jing-xuan-ong-8b59b3201/)
