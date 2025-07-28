@@ -13,9 +13,10 @@
 </div>
 <div>
   
-  - Penultimate Year Computer Science student in Nanyang Technological University's Renaissance Engineering Programme 📖
+  - Final Year Computer Science student in Nanyang Technological University's Renaissance Engineering Programme 📖
+  - Software Engineering internship experience in Apple, Standard Chartered, SC Ventures and more 
   - GLOBE Student (Computer Science) in University of California, Berkeley (2023-2024)
-  - Currently learning Computer Graphics and VR Game Development!
+  - Currently learning new backend technologies and Neurotechnology!
   - Enjoys designing and developing new projects 🎨 💻
   
 </div>
@@ -40,7 +41,7 @@
     <br>
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,figma,blender&perline=14" />
+    <img src="https://skillicons.dev/icons?i=figma,unity,unreal,blender&perline=14" />
   </a>
 </p>
 </kbd>
@@ -50,7 +51,7 @@
     <br>
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,flask,firebase,postman,gcp&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,python,nodejs,nestjs,flask,firebase,postman,gcp&perline=14" />
   </a>
 </p>
 </kbd>
